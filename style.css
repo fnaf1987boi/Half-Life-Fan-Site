@@ -37,3 +37,7 @@ ul {
   color: #ffffff;
   font-family: courier
 }
+my-image {
+  max-width:100%;
+  height:auto
+}
